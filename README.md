@@ -27,6 +27,6 @@ Install instructions are:
 8. cd lg-master
 9. make
 10. sudo make install
-11. create a Blink example program and copy the program and libraries to the RaspberryPi Desktop (make a 64-bit version)
+11. create an Example program and copy the program and libraries to the RaspberryPi Desktop (make a 64-bit version)
 12. give the executable permission to run with something like: 'sudo chmod +x Example'
 13. run the program with something like: 'sudo ./Example'
